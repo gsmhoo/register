@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/gsmhoo/is-a-good-dev",
+
+    "owner": {
+        "username": "gsmhoo",
+        "email": "gsmhoor@gmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "hoor",
+            "value": "hmam-web.pages.dev"
+        }
+    },
+
+    "proxied": true
+}
